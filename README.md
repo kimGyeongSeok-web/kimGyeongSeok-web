@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Emotion-3578E5?style=flat&logo=recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-3578E5?style=flat&logo=recoil&logoColor=white"/>
