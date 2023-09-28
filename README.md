@@ -15,4 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<-- FE -->
+<-- react -->
+<-- typescript --><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<-- next.js -->
+<-- javascript -->
+<-- emotion -->
+<-- tailwindcss -->
+<-- styled-components -->
+<-- SCSS -->
+<-- Jquery -->
+<-- git -->
+
+<-- BE -->
+<-- node.js -->
+<-- nest.js -->
+<-- -->
+<--
